@@ -9,3 +9,4 @@
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I eat lot of ice-cream and chocolates.
 
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Smr341&show_icons=true" alt="Smr341" /></div>
